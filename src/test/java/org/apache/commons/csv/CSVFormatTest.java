@@ -46,7 +46,7 @@ import org.junit.Test;
 public class CSVFormatTest {
     
     public CSVFormatTest(){
-        System.out.println("3aaaaaaaaaaaaa");
+        System.out.println("CSVFormatTest has been initialized...");
     }
     
     private static void assertNotEquals(final Object right, final Object left) {
